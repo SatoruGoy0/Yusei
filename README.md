@@ -12,8 +12,8 @@
 #### *COMANDOS*  
 ```
 pkg i python -y && pkg i git -y
-git clone https://github.com/Lursy/Persux
-cd Persux
+git clone https://github.com/SatoruGoy0/Yusei
+cd Yusei
 python Persux.py
 ``` 
 
